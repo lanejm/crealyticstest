@@ -18,6 +18,7 @@ const AppProvider = ({ children }) => {
       console.dir(data)
       console.log(data[0].price)
       //find a way to put searchTerm onto data array
+      //use array.includes()?
       if (data) {
         const newItems = data.map((item) => {
           const { title, gtin, gender, salePrice, price, imageLink } = item;
