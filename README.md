@@ -21,7 +21,7 @@ The server side of this app is running on postgres.  You will need to install po
 
 FUNCTIONALITY
 -------------
-You can search for items based off of title.  Search bar dynamically loads items as keys are pressed.  Returns 100 items. **not fully functional, currently***  
+You can search for items based off of title.  Search bar dynamically loads items as keys are pressed.  Returns 100 items. **Not fully functional, currently** 
 
 AUTHORS
 -------
