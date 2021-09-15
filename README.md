@@ -8,12 +8,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+
 ### `npm start`
 
-Runs the app in the development mode.\
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
 You can visit the github repo for this project on [Github](https://github.com/lanejm/crealyticstest).
 
@@ -23,7 +21,7 @@ The server side of this app is running on postgres.  You will need to install po
 
 FUNCTIONALITY
 -------------
-You can search for items based off of title.  Search bar dynamically loads items as keys are pressed.  Returns 100 items.  
+You can search for items based off of title.  Search bar dynamically loads items as keys are pressed.  Returns 100 items. **not fully functional, currently***  
 
 AUTHORS
 -------
