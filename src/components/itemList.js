@@ -17,6 +17,7 @@ export default function ItemList() {
         )
     }
     return (
+
         <section className="section">
             <h2 className="section-title">Items</h2>
             <div className="items-center">
