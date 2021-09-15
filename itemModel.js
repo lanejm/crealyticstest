@@ -3,7 +3,7 @@ const pool = new Pool({
     user: 'postgres',
     host: 'localhost',
     database: 'crealytics',
-    password: 'Passwort!',
+    password: process.env.PASS,
     port: 5432
 })
 
